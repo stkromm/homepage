@@ -5,6 +5,24 @@
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "/simplerun/privacy",
+        "destination": "/privacy/index.html"
+      },
+      {
+        "source": "/simplerun",
+        "destination": "/simplerun/index.html"
+      },
+      {
+        "source": "/robots.txt",
+        "destination": "/robots.txt"
+      },
+      {
+        "source": "/**",
+        "destination": "/index.html"
+      }
     ]
   }
 }
