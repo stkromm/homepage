@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="20px" viewBox="0 0 19 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>simplerun—logo</title>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="59.4075712%" gradientTransform="translate(0.500000,0.500000),scale(0.995068,1.000000),rotate(180.000000),scale(1.000000,1.008633),translate(-0.500000,-0.500000)" id="radialGradient-1">
+            <stop stop-color="#EE0052" offset="0.0245847902%"></stop>
+            <stop stop-color="#DD167F" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="25.8538688%" y1="13.6935397%" x2="59.5291281%" y2="63.4641595%" id="linearGradient-2">
+            <stop stop-color="#000000" stop-opacity="0.184450803" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="27.0505617%" y1="13.6935397%" x2="59.0568603%" y2="63.4641595%" id="linearGradient-3">
+            <stop stop-color="#000000" stop-opacity="0.184450803" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="simplerun—logo">
+            <g id="Ebene-2" fill="url(#radialGradient-1)">
+                <path d="M8.25070423,0.0684507042 L8.33169014,0.0684507042 C12.8420775,0.0684507042 16.4984155,3.72484155 16.4984155,8.23521127 C16.4984155,12.7455986 12.8420775,16.4020246 8.33169014,16.4020246 L8.25070423,16.4020246 C3.7403169,16.4020246 0.0838908451,12.7455986 0.0838908451,8.23521127 C0.0838908451,3.72484155 3.7403169,0.0684507042 8.25070423,0.0684507042 Z" id="Path"></path>
+            </g>
+            <g id="Ebene-1" transform="translate(3.961268, 4.169014)">
+                <polygon id="Rectangle" fill="url(#linearGradient-2)" points="0.0387323944 8.18480665 4.53873239 4.18480665 10.3499762 9.58802042 5.19435428 14.5490285"></polygon>
+                <polygon id="Rectangle-Copy" fill="url(#linearGradient-3)" points="4.68150848 8.18480665 9.07652691 4.33098592 14.5922081 9.4400072 9.53873239 14.5490285"></polygon>
+                <polygon id="Path" fill="#FFFFFF" points="0.0372359155 0.0483362676 0.0642605634 2.05937363 2.30510563 4.15883239 0.135475352 6.19199852 0.145246479 8.04833627 4.45510563 4.22512502"></polygon>
+                <path d="M4.68150848,0.20803499 L4.70721831,2.13742909 C4.70757042,2.16323059 4.72455986,2.19983103 4.74515845,2.21925463 L6.91135563,4.2606171 C6.93195423,4.2800407 6.93195423,4.31149533 6.91135563,4.33091894 L4.81637324,6.30553089 C4.79577465,6.32495449 4.77913732,6.36162741 4.77931338,6.38735643 L4.78864437,8.16120953 C4.78873239,8.18693855 4.80607394,8.19251921 4.82728873,8.17353047 L9.06021127,4.39672725 C9.08142606,4.37781099 9.08204225,4.34664625 9.06153169,4.32715018 L4.71795775,0.196648991 C4.69744718,0.177160162 4.68116197,0.182255233 4.68150848,0.20803499 Z" id="Path" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
