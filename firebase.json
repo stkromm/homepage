@@ -12,6 +12,10 @@
         "destination": "/privacy/index.html"
       },
       {
+        "source": "/simplerun/licenses",
+        "destination": "/licenses/index.html"
+      },
+      {
         "source": "/simplerun",
         "destination": "/simplerun/index.html"
       },
